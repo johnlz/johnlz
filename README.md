@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/j0hn47?template=terminal&base.metadata=0&config.timezone=America%2FSao_Paulo)
+![Metrics](https://metrics.lecoq.io/johnlz?template=terminal&base.indepth=false&base.hireable=false&config.timezone=America%2FSao_Paulo)
