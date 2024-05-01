@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/johnlz?template=terminal&base.indepth=false&base.hireable=false&config.timezone=America%2FSao_Paulo)
+![Alt Text](https://cdn.discordapp.com/attachments/942088304147460109/1234890330143199292/1bcfc9161900cb1b90c33fc8ca46888a_1_3.gif?ex=6633097d&is=6631b7fd&hm=cec773ed594c10853960e4ccbd28e5b8373dfb9242b07ceb66c55ebf7e2a2267&)
